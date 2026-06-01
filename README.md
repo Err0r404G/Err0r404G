@@ -1,6 +1,6 @@
 # Err0r404G/README.md
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sakib%20Sadman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%7C%20Desktop%20%7C%20Database&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sakib%20Sadman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%7C%20Desktop%20%7C%20Database&descAlignY=58&descSize=18" width="100%" alt="Sakib Sadman banner" />
 
 <h1 align="center">Hi There! I'm Sakib Sadman</h1>
 
@@ -11,10 +11,6 @@
       alt="Typing SVG"
     />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Coding" />
 </p>
 
 ## 👨‍💻 About Me
@@ -32,13 +28,13 @@
 
 <p align="left">
   <a href="https://www.sakibsadman.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Err0r404G" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -71,23 +67,22 @@ Java desktop app for restaurant order tracking, role-based access, staff communi
 ### MRT Agro Products BD Limited
 Responsive public-facing website for MRT Agro Products BD Limited.
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+You can view my repositories and activity here:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Err0r404G&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Err0r404G&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Err0r404G&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <a href="https://github.com/Err0r404G?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
 </p>
 
 ## 🧭 Portfolio
 
 <p align="center">
   <a href="https://www.sakibsadman.site/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-sakibsadman.site-2563EB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-sakibsadman.site-2563EB?style=for-the-badge" alt="Visit portfolio" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="Footer wave" />
